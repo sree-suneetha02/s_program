@@ -1,6 +1,6 @@
 # hi
 ## i am suneetha
-today learn about some basics
+today i learn about some basics
 ```c
 #include<stdio.h>
 int main(){
